@@ -1,21 +1,30 @@
-# Vantheon-X-Challenge
-break this if you can 
-# ⚛️ THE VANTHEON X CHALLENGE [ALPHA]
+# ⚛️ VANTHEON X | THE DUAL-GATE CHALLENGE
 **Status: UNBROKEN**
 
-Legacy RSA is dead. I built Vantheon X on an i3 to prove that Post-Quantum Security is a matter of logic, not hardware power.
+Privacy is a right, not a luxury. I am releasing two encrypted vaults to challenge the global security community. Both were engineered on a budget **Intel i3** to prove that logic beats hardware.
 
-### 💀 THE GOAL
-Inside `/Challenge-Files`, you will find `encrypted_vault.rcx`. 
-It contains a unique signature. If you can decrypt it and reveal the signature, you win.
+---
 
-### 🛡️ THE ARCHITECTURE
-- **Algorithm:** ML-KEM-768 (NIST Level 3)
-- **Key Store:** AES-256-GCM Streaming Encryption
-- **Derivation:** PBKDF2-HMAC-SHA256 | 310,000 Iterations
-- **Environment:** Compiled for optimization on low-end hardware (Intel i3).
+### 🛡️ THE CHALLENGE FILES
+
+#### 1️⃣ LEVEL: STANDARD (Quantum-Safe)
+- **File:** `standard_challenge.txt`
+- **Logic:** NIST ML-KEM-768 (Kyber)
+- **Specs:** 310,000 PBKDF2 iterations | AES-256-GCM
+- **Goal:** Baseline PQC protection for the modern era.
+
+#### 2️⃣ LEVEL: GOD MODE (Military-Grade Stealth)
+- **File:** `god_mode_challenge.txt`
+- **Logic:** NIST ML-KEM-1024 (Kyber)
+- **Specs:** Argon2id Memory-Hard KDF (1M+ iterations) | Stealth Headers
+- **Goal:** Absolute cryptographic finality. NIST Level 5 compliance.
+
+---
+
+### ⚛️ ARCHITECTURE
+Developed by **Royal C Holdings**, Vantheon X is optimized for hardware-aware performance. It brings the strongest encryption on Earth to any machine—regardless of specs.
 
 ### 📥 SUBMISSIONS
-If you break the vault, open an Issue with the decrypted signature. 
+If you break the vault, reveal the signature. Open an Issue with your proof. 
 
-"Privacy is a right, not a luxury." — Royal C Holdings. 🇱🇰
+"The Big Giants might have the servers, but we have the math." — **Royal C.** 🇱🇰
