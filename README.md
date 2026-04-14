@@ -1,4 +1,8 @@
 # ⚛️ VANTHEON X | THE DUAL-GATE CHALLENGE
+34 unique entities have already pulled the core. Many have tried; all have failed. If you believe your hardware or your math is superior, the file is waiting.
+
+"Don't tell me it's secure. Prove it isn't."
+
 **Status: UNBROKEN**
 
 Privacy is a right, not a luxury. I am releasing two encrypted vaults to challenge the global security community. Both were engineered on a budget **Intel i3** to prove that logic beats hardware.
@@ -25,6 +29,7 @@ Privacy is a right, not a luxury. I am releasing two encrypted vaults to challen
 Developed by **Royal C Holdings**, Vantheon X is optimized for hardware-aware performance. It brings the strongest encryption on Earth to any machine—regardless of specs.
 
 ### 📥 SUBMISSIONS
-If you break the vault, reveal the signature. Open an Issue with your proof. 
+If you break the vault, reveal the signature. Open an Issue with your proof.
+contact us royalcholdings.official@gmail.com
 
-"The Big Giants might have the servers, but we have the math." — **Royal C.** 🇱🇰
+"The Big Giants might have the servers, but we have the math."  **Royal C.** 🇱🇰
