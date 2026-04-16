@@ -1,5 +1,5 @@
 # ⚛️ VANTHEON X | THE DUAL-GATE CHALLENGE
-34 unique entities have already pulled the core. Many have tried; all have failed. If you believe your hardware or your math is superior, the file is waiting.
+42 unique entities have already pulled the core. Many have tried; all have failed. If you believe your hardware or your math is superior, the file is waiting.
 
 "Don't tell me it's secure. Prove it isn't."
 
