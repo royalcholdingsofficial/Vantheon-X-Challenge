@@ -1,35 +1,46 @@
-# ⚛️ VANTHEON X | THE DUAL-GATE CHALLENGE
-42 unique entities have already pulled the core. Many have tried; all have failed. If you believe your hardware or your math is superior, the file is waiting.
+⚛️ VANTHEON X | THE 79-0 CHALLENGE
+"Logic beats hardware. Every single time."
+
+🛡️ STATUS: UNBROKEN
+Audit Record: 79 External Breach Attempts | Success Rate: 0.00%
+Current Objective: Identify the first entity capable of compromising NIST Level 5 compliance on consumer-grade hardware.
+
+📥 THE MANIFESTO
+Privacy is not a feature; it is a sovereign right. Vantheon X was engineered on a legacy Intel i3 to prove a singular point: You don't need a server farm to build a fortress. While the "Big Giants" sell your data to fuel their clouds, Royal C Holdings builds the walls.
 
 "Don't tell me it's secure. Prove it isn't."
 
-**Status: UNBROKEN**
+💀 THE VAULTS
+Two encrypted targets. One goal: Total Cryptographic Finality.
 
-Privacy is a right, not a luxury. I am releasing two encrypted vaults to challenge the global security community. Both were engineered on a budget **Intel i3** to prove that logic beats hardware.
+1️⃣ PHASE I: THE STANDARD (Quantum-Resistant)
+Target: standard_vault.vx
 
----
+Logic: NIST ML-KEM-768 (Kyber)
 
-### 🛡️ THE CHALLENGE FILES
+Defense: 310,000 PBKDF2 iterations | AES-256-GCM
 
-#### 1️⃣ LEVEL: STANDARD (Quantum-Safe)
-- **File:** `standard_challenge.txt`
-- **Logic:** NIST ML-KEM-768 (Kyber)
-- **Specs:** 310,000 PBKDF2 iterations | AES-256-GCM
-- **Goal:** Baseline PQC protection for the modern era.
+Status: ACTIVE
 
-#### 2️⃣ LEVEL: GOD MODE (Military-Grade Stealth)
-- **File:** `god_mode_challenge.txt`
-- **Logic:** NIST ML-KEM-1024 (Kyber)
-- **Specs:** Argon2id Memory-Hard KDF (1M+ iterations) | Stealth Headers
-- **Goal:** Absolute cryptographic finality. NIST Level 5 compliance.
+2️⃣ PHASE II: GOD MODE (The Black Site)
+Target: god_mode_vault.vx
 
----
+Logic: NIST ML-KEM-1024 (Level 5 Security)
 
-### ⚛️ ARCHITECTURE
-Developed by **Royal C Holdings**, Vantheon X is optimized for hardware-aware performance. It brings the strongest encryption on Earth to any machine—regardless of specs.
+Defense: Argon2id Memory-Hard KDF | Stealth Header Injection | Zero-Knowledge Architecture
 
-### 📥 SUBMISSIONS
-If you break the vault, reveal the signature. Open an Issue with your proof.
-contact us royalcholdings.official@gmail.com
+Status: UNTOUCHED
 
-"The Big Giants might have the servers, but we have the math."  **Royal C.** 🇱🇰
+⚛️ THE ARCHITECTURE
+Developed by Royal C Holdings, Vantheon X is a hardware-aware encryption engine. It is designed to deliver military-grade post-quantum security to the edge, bypassing the need for cloud-dependent "security" traps.
+
+🏆 THE BOUNTY
+If you compromise the vault, extract the internal signature and open a Public Issue with your proof.
+
+Technical Inquiries: royalcholdings.official@gmail.com
+
+"The Giants have the servers. We have the math."
+Founder, Royal C. 🇱🇰
+Official Contact: royalcholdings.official@gmail.com
+
+Note: Do not open a public issue until the exploit has been verified by the Royal C technical team. If the breach is valid, your name (or alias) will be etched into the "Wall of Honor"—or the "Wall of Shame".at the Founder's discretion.
